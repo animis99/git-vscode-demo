@@ -1,0 +1,13 @@
+html{
+    margin: 0;
+    padding: 0;
+}
+
+.tablist{
+    > header {
+        color: chocolate;
+    }
+    > div {
+        color: red;
+    }
+}
